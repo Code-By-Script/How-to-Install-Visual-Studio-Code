@@ -80,15 +80,26 @@ That's it! This extension allows you to work with C# projects in **VS Code**.
    dotnet new console -n MyFirstApp
   ```
 ### ▶️ Step 6: **Run Your C# Project**
-1. **Build the Project**:
+1. **Navigate to Your Project Directory**:
+  - 🏁 After creating your project, make sure to move into the newly created project folder using:
+  ```bash
+ cd C:\Users\mgame\source\repos\TEST6666\APP5>   
+   ```
+### 🔍 **This step is crucial: you'll need to be in the right folder to run your project**
+
+
+1. **🔨 Build the Project**:
   - In the terminal, run the following command to build the project:
   ```bash
 dotnet build
    ```
-2. **Run the Project**:
+  ✅ If everything is set up correctly, you should see a success message!
+ 
+2. **🚀 Run the Project**:
    - Once the project is successfully built, you can run it with the following command:
   ```bash
 dotnet run
   ```
+ 🎈 **Congrats! Your C# application is now running!**
 
 
