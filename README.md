@@ -62,7 +62,7 @@ Before we start, please check the following:
    📂 Click on **File** > **Open Folder...** to create or open a project directory.
 
 2. **Open the Terminal**:  
-   🚀 Use the shortcut ``Ctrl + ` `` (backtick) to open the integrated terminal.
+   🚀 Use the shortcut ``Ctrl J `` (backtick) to open the integrated terminal.
 
 3. **Run the Command to Create a New Project**:  
    For a new C# console application, run the command:  
