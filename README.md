@@ -67,3 +67,18 @@ That's it! This will allow you to work with C# projects in VS Code.
    For a new C# console application, run the command:  
    ```bash
    dotnet new console -n MyFirstApp
+   ```
+### ▶️ Step 4: **Run Your C# Project**
+1. **Build the Project:**
+   - In the terminal, run the following command to build the project:
+ ```bash
+dotnet build
+  ```
+2. **Run the Project:**
+   - Once the project is successfully built, you can run it with the following command:
+  ```bash
+dotnet run
+  ```
+
+
+   
