@@ -77,7 +77,7 @@ That's it! This extension allows you to work with C# projects in **VS Code**.
 3. **Run the Command to Create a New Project**:  
    For a new C# console application, run the command:  
   ```bash
-   dotnet new console -n MyFirstApp
+   dotnet new console -n APP5
   ```
 ### ▶️ Step 6: **Run Your C# Project**
 1. **Navigate to Your Project Directory**:
