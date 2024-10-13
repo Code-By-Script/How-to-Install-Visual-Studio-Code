@@ -46,14 +46,17 @@ Before we start, please check the following:
 ### 🔌 Step 3: **Install the .NET SDK**
 
 1. **Download the .NET SDK**:  
-   To develop and run C# applications, you need the **.NET SDK**. Download it here:  
-   - 📥 [**Download .NET SDK**](https://dotnet.microsoft.com/download)
+   Visit the official [.NET download page](https://dotnet.microsoft.com/download) to get the latest version of the .NET SDK.
 
 2. **Install the SDK**:  
-   Follow the installation steps provided by the SDK installer to complete the setup.
+   - Follow the installation instructions specific to your operating system (Windows, macOS, or Linux).
 
+3. **Verify Installation**:  
+   After installation, open your terminal or command prompt and run:
+   ```bash
+   dotnet --version
+   ```
 ---
-
 ### 🔌 Step 4: **Install the C# Dev Kit**
 
 1. **Open Visual Studio Code**.
