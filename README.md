@@ -43,16 +43,15 @@ Before we start, please check the following:
 
 ---
 
-### 🔌 Step 3: **Install Extensions**
+### 🔌 Step 4: **Install the C# Dev Kit**
 
-1. **Open Visual Studio Code**:  
-   Launch **VS Code** if you haven't already.  
+1. **Open Visual Studio Code**.
+2. **Go to Extensions**:  
+   - Click the Extensions icon on the left toolbar or press `Ctrl+Shift+X`.
+3. **Search for 'C# Dev Kit'**.
+4. **Install the Extension**.
 
-2. **Access the Extensions View**:  
-   🛠️ Click on the Extensions icon in the Activity Bar on the side of the window or press `Ctrl+Shift+X`.
-
-3. **Search for Extensions**:  
-   Use the search bar to find and install necessary extensions for your projects, such as **C#** for .NET development, **Python** for Python development, or any other relevant tools.
+That's it! This will allow you to work with C# projects in VS Code.
 
 ---
 
